@@ -2,7 +2,7 @@
 
 Simple .bat file for locking folders. 
 
-
+cls
 
 @ECHO OFF
 
